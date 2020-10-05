@@ -10,8 +10,8 @@ My name ist Yannick Huggler and I'm a software engineer. I'm from Switzerland an
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash/Zsh-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker/Zsh-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-OracleDB/Zsh-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-OracleDB-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
