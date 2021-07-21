@@ -19,7 +19,7 @@
 - 👨🏻‍💻 I'm working as a software engineer at <a href="https://polypoint.ch/">POLYPOINT</a>
 - 🎓 I'm in my second year at <a href="http://fhnw.ch/">FHNW University of Applied Sciences and Arts</a> studying Computer Science. 
 - 🛹 In my free time I love to skate and play video games.
-- 🤔 I have an interest in front- and backend development, and I like tinkering around in my Homelab.
+- 🤔 I have an interest in front- and backend web-development, and I like tinkering around in my Homelab.
 
 **What I work with**
 
