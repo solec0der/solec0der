@@ -1,6 +1,8 @@
 # Hey there, <img src="https://github.com/solec0der/solec0der/blob/master/wave.gif?raw=true" width="30px"> I'm Yannick!
 
-<img src="https://img.shields.io/badge/Age-20-blue" />
+<a href="https://en.wikipedia.org/wiki/20_(number)">
+    <img src="https://img.shields.io/badge/Age-20-blue" />
+</a>
 
 <a href="https://www.linkedin.com/in/yannick-huggler/">
     <img src="https://img.shields.io/badge/Linkedin-yannick--huggler-blue?logo=linkedin"/>
