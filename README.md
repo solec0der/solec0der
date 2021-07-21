@@ -1,18 +1,14 @@
 # Hey there, <img src="https://github.com/solec0der/solec0der/blob/master/wave.gif?raw=true" width="30px"> I'm Yannick!
 
-<a href="https://en.wikipedia.org/wiki/20_(number)">
-    <img src="https://img.shields.io/badge/Age-20-blue" />
-</a>
-
-<a href="https://www.linkedin.com/in/yannick-huggler/">
+<a href="https://www.linkedin.com/in/yannick-huggler/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-yannick--huggler-blue?logo=linkedin"/>
 </a>
 
-<a href="https://www.instagram.com/y_the_dev">
+<a href="https://www.instagram.com/y_the_dev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@y__the__dev-blue?logo=instagram"/>
 </a>
 
-<a href="mailto:yannick@huggler.io">
+<a href="mailto:yannick@huggler.io" target="_blank">
     <img src="https://img.shields.io/badge/E--Mail-yannick@huggler.io-blue?logo=gmail"/>
 </a>
 
@@ -38,3 +34,5 @@
 <a href="https://github.com/solec0der">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=solec0der&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="solec0der's GitHub Stats" />
 </a>
+
+<sub>Last update 2021/07/21 05:15:00 PM</sub>
